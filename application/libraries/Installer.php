@@ -20,5 +20,8 @@ class Installer extends CI_Controller
 	function check_is_installed()
 	{
 		$CI =& get_instance();
+		/**
+		 *  FlameCMS | triger error not installed
+		 */
 	}
 }
